@@ -1,1 +1,1 @@
-Sample1 file
+Sample1 file updated directly from git hub
